@@ -1,0 +1,561 @@
+1655545990526	geckodriver	INFO	Listening on 127.0.0.1:57061
+1655545993592	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57062" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileMDqmgn"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655545994902	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57062
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileMDqmgn\\search.json.mozlz4", (void 0)))
+1655545997430	Marionette	INFO	Listening on port 57098
+Read port: 57098
+1655545997526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57062/devtools/browser/3793823f-0664-4fc0-8298-325cb1c27cfc
+JavaScript warning: https://www.rafael.co.il/press/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.rafael.co.il/press/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.rafael.co.il/press/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.rafael.co.il/press/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.rafael.co.il/press/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.rafael.co.il/press/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655546098179	Marionette	INFO	Stopped listening on port 57098
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655546102049	geckodriver	INFO	Listening on 127.0.0.1:57203
+1655546105084	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57204" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileNs40sz"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655546105492	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57204
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileNs40sz\\search.json.mozlz4", (void 0)))
+1655546107186	Marionette	INFO	Listening on port 57235
+DevTools listening on ws://localhost:57204/devtools/browser/095d7775-7b96-43e1-9043-e0779c15cd40
+Read port: 57235
+1655546107292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.rafael.co.il/press/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.rafael.co.il/press/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.rafael.co.il/press/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.rafael.co.il/press/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655546136165	Marionette	INFO	Stopped listening on port 57235
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655547592774	geckodriver	INFO	Listening on 127.0.0.1:50888
+1655547595852	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileDWw2x9"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655547596272	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50889
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileDWw2x9\\search.json.mozlz4", (void 0)))
+1655547598040	Marionette	INFO	Listening on port 50921
+DevTools listening on ws://localhost:50889/devtools/browser/605a4322-f84b-4142-88c0-4ec808210f21
+Read port: 50921
+1655547598120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "stylesheets: fetch failed for https://www.amentum.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=3.7.10, using system principal instead."
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "stylesheets: fetch failed for https://www.amentum.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=3.7.10, using system principal instead."
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "stylesheets: fetch failed for https://www.amentum.com/wp-content/uploads/elementor/css/post-62.css?ver=1651672318, using system principal instead."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1655549771248	Marionette	INFO	Stopped listening on port 50921
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655635984514	geckodriver	INFO	Listening on 127.0.0.1:64946
+1655635987558	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile6BSmk0"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655636005792	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64947
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile6BSmk0\\search.json.mozlz4", (void 0)))
+1655636007950	Marionette	INFO	Listening on port 64997
+DevTools listening on ws://localhost:64947/devtools/browser/e6d240a6-0a9a-4d60-8eff-c07c4fad44f6
+Read port: 64997
+1655636008077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655636121298	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655636465560	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655636534752	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1655636614991	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655636621247	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655636627486	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655638983110	Marionette	INFO	Stopped listening on port 64997
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+t_mozprofileXku6RE"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655638977716	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52149
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileXku6RE\\search.json.mozlz4", (void 0)))
+1655638979459	Marionette	INFO	Listening on port 52182
+DevTools listening on ws://localhost:52149/devtools/browser/a58543c1-ec43-4ee1-b61f-e35069480adc
+Read port: 52182
+1655638979516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655639146297	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655639452965	Marionette	INFO	Stopped listening on port 52182
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "52500" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileDh0fqh"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655639169820	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52500
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileDh0fqh\\search.json.mozlz4", (void 0)))
+1655639171389	Marionette	INFO	Listening on port 52533
+Read port: 52533
+1655639171453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52500/devtools/browser/30c65053-fefb-46ee-ac58-2098c3be94c9
+1655639454206	Marionette	INFO	Stopped listening on port 52531655639455457	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileEH6jWz"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655639455846	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52927
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileEH6jWz\\search.json.mozlz4", (void 0)))
+1655639457544	Marionette	INFO	Listening on port 52970
+Read port: 52970
+1655639457594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52927/devtools/browser/77132006-12ee-4f72-870b-d902d2b8f523
+1655639490765	Marionette	INFO	Stopped listening on port 52970
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655639558889	geckodriver	INFO	Listening on 127.0.0.1:53183
+1655639561925	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileYW51zb"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655639562318	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53184
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileYW51zb\\search.json.mozlz4", (void 0)))
+1655639564014	Marionette	INFO	Listening on port 53213
+Read port: 53213
+1655639564069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53184/devtools/browser/e4823fcf-dc6f-4030-a7cc-b1dfef03d5bb
+1655639617374	Marionette	INFO	Stopped listening on port 53213
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655639664904	geckodriver	INFO	Listening on 127.0.0.1:53368
+1655639667961	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileb0MX25"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655639668338	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53369
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileb0MX25\\search.json.mozlz4", (void 0)))
+1655639670003	Marionette	INFO	Listening on port 53400
+Read port: 53400
+1655639670074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53369/devtools/browser/cd60c87e-1606-4197-9d82-975360a18ce3
+1655639710467	Marionette	INFO	Stopped listening on port 53400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655639766664	geckodriver	INFO	Listening on 127.0.0.1:53589
+1655639769696	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileAF1YHI"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655639770076	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53590
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileAF1YHI\\search.json.mozlz4", (void 0)))
+1655639771844	Marionette	INFO	Listening on port 53619
+Read port: 53619
+1655639771896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53590/devtools/browser/04558379-28a3-452d-822e-84e2bff463b7
+1655639879456	Marionette	INFO	Stopped listening on port 53619
+1655726842012	geckodriver	INFO	Listening on 127.0.0.1:60646
+1655726845075	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilel7XaBl"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655726861234	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60647
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilel7XaBl\\search.json.mozlz4", (void 0)))
+1655726863740	Marionette	INFO	Listening on port 60686
+DevTools listening on ws://localhost:60647/devtools/browser/c84a1df3-f0f5-49b7-bc8d-9dbaf9f4b8c9
+Read port: 60686
+1655726863899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655726903350	Marionette	INFO	Stopped listening on port 60686
+1655726940109	geckodriver	INFO	Listening on 127.0.0.1:60501
+1655726943149	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60506" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileNiXerd"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655726943560	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60506
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileNiXerd\\search.json.mozlz4", (void 0)))
+1655726945408	Marionette	INFO	Listening on port 60565
+Read port: 60565
+1655726945452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:60506/devtools/browser/1c0f2804-0347-4e7c-a65c-101f167dfaf7
+1655726973561	Marionette	INFO	Stopped listening on port 60565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655727049367	geckodriver	INFO	Listening on 127.0.0.1:60887
+1655727052420	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileiUTMDd"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727052810	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60888
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileiUTMDd\\search.json.mozlz4", (void 0)))
+1655727054443	Marionette	INFO	Listening on port 60919
+DevTools listening on ws://localhost:60888/devtools/browser/a4b6e173-ea93-4959-905b-a0905fdf4a2d
+Read port: 60919
+1655727054527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655727072310	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655727085222	Marionette	INFO	Stopped listening on port 60919
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655727119733	geckodriver	INFO	Listening on 127.0.0.1:61047
+1655727122796	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile7IG7Fc"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727123189	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61048
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile7IG7Fc\\search.json.mozlz4", (void 0)))
+1655727124871	Marionette	INFO	Listening on port 61086
+Read port: 61086
+1655727124926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61048/devtools/browser/40f89e92-92d2-48a8-8658-d3c7aa345d3a
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1655727148921	Marionette	INFO	Stopped listening on port 61086
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655727203237	geckodriver	INFO	Listening on 127.0.0.1:61208
+1655727206271	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilespISFG"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727206646	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61209
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilespISFG\\search.json.mozlz4", (void 0)))
+1655727208234	Marionette	INFO	Listening on port 61240
+Read port: 61240
+1655727208255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61209/devtools/browser/bd6736f5-bb66-4d4c-a916-7d84e1cd2174
+1655727269572	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655727280977	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655727312197	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655727473616	Marionette	INFO	Stopped listening on port 61240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "61448" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilepBsVdQ"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727333878	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61448
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilepBsVdQ\\search.json.mozlz4", (void 0)))
+1655727335644	Marionette	INFO	Listening on port 61480
+Read port: 61480
+1655727335695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61448/devtools/browser/dcc25901-03e5-45a4-9baf-3cfd392a6ec3
+1655727342573	Marionette	INFO	Stopped listening on port 61480
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655727408034	geckodriver	INFO	Listening on 127.0.0.1:61606
+1655727411063	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileNODJcJ"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727411519	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61607
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileNODJcJ\\search.json.mozlz4", (void 0)))
+1655727413281	Marionette	INFO	Listening on port 61649
+DevTools listening on ws://localhost:61607/devtools/browser/a772beb1-cc80-40dc-8685-91628dff4eb6
+Read port: 61649
+1655727413361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655727417947	Marionette	INFO	Stopped listening on port 61649
+1655727451454	geckodriver	INFO	Listening on 127.0.0.1:61732
+1655727454497	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilelmd7eS"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727454864	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61733
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilelmd7eS\\search.json.mozlz4", (void 0)))
+1655727456460	Marionette	INFO	Listening on port 61761
+Read port: 61761
+1655727456482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:61733/devtools/browser/9cb9a8b5-747e-4cb4-ad41-8e115c9ed6b1
+1655727469555	Marionette	INFO	Stopped listening on port 61761
+1655727497261	geckodriver	INFO	Listening on 127.0.0.1:61904
+1655727500302	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofiledleqaV"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727500711	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61905
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofiledleqaV\\search.json.mozlz4", (void 0)))
+1655727502484	Marionette	INFO	Listening on port 61941
+DevTools listening on ws://localhost:61905/devtools/browser/3b4243bb-d202-45ba-bde3-ad093c6fe02e
+Read port: 61941
+1655727502536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655727579732	Marionette	INFO	Stopped listening on port 61941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "62146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilevHDd3w"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727575798	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62146
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilevHDd3w\\search.json.mozlz4", (void 0)))
+1655727577414	Marionette	INFO	Listening on port 62177
+DevTools listening on ws://localhost:62146/devtools/browser/974ea3c3-46fe-41cb-b988-157e8683a88b
+Read port: 62177
+1655727577510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655727593306	Marionette	INFO	Stopped listening on port 62177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655727661612	geckodriver	INFO	Listening on 127.0.0.1:62369
+1655727664642	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile0X1MuC"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727665046	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62370
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile0X1MuC\\search.json.mozlz4", (void 0)))
+1655727666884	Marionette	INFO	Listening on port 62408
+DevTools listening on ws://localhost:62370/devtools/browser/d6e29ca7-c222-424d-ae83-21868dcd7159
+Read port: 62408
+1655727666987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655727679280	Marionette	INFO	Stopped listening on port 62408
+1655727714957	geckodriver	INFO	Listening on 127.0.0.1:62631
+1655727718000	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileDjyC5m"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727718370	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62632
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileDjyC5m\\search.json.mozlz4", (void 0)))
+1655727720059	Marionette	INFO	Listening on port 62663
+Read port: 62663
+1655727720097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62632/devtools/browser/e89c2b03-6507-4409-95d7-ccf8d4b7d37d
+1655727737167	Marionette	INFO	Stopped listening on port 62663
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655727773088	geckodriver	INFO	Listening on 127.0.0.1:62800
+1655727776133	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileCTplRj"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727776513	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62801
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileCTplRj\\search.json.mozlz4", (void 0)))
+1655727778292	Marionette	INFO	Listening on port 62837
+Read port: 62837
+1655727778361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62801/devtools/browser/c272e932-b856-4fc4-8736-dc8553c1e0bd
+1655727868693	Marionette	INFO	Stopped listening on port 62837
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655727896515	geckodriver	INFO	Listening on 127.0.0.1:63024
+1655727899561	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilec498Gh"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727899935	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63025
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilec498Gh\\search.json.mozlz4", (void 0)))
+1655727901556	Marionette	INFO	Listening on port 63054
+Read port: 63054
+1655727901619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:63025/devtools/browser/07a8d990-ec1e-4b97-b63d-e5f68d73c5cd
+1655727939247	Marionette	INFO	Stopped listening on port 63054
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655727996486	geckodriver	INFO	Listening on 127.0.0.1:63204
+1655727999535	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileUKB1sh"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655727999908	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63205
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileUKB1sh\\search.json.mozlz4", (void 0)))
+1655728001764	Marionette	INFO	Listening on port 63237
+DevTools listening on ws://localhost:63205/devtools/browser/d331fa31-aeeb-44f5-b579-307613bdfe21
+Read port: 63237
+1655728001887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655728115648	Marionette	INFO	Stopped listening on port 63237
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655728145451	geckodriver	INFO	Listening on 127.0.0.1:63451
+1655728148493	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileAED1uw"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655728148976	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:63452
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileAED1uw\\search.json.mozlz4", (void 0)))
+1655728150613	Marionette	INFO	Listening on port 63484
+DevTools listening on ws://localhost:63452/devtools/browser/9cd3f14a-513e-43b1-b7d9-fb2b194f288c
+Read port: 63484
+1655728150714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655728306679	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655728356919	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655728382134	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655728407327	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655728432528	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1655728445370	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1655729425159	Marionette	INFO	Stopped listening on port 63484
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655729508296	geckodriver	INFO	Listening on 127.0.0.1:64409
+1655729511330	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileNbN1LM"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655729511701	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64410
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileNbN1LM\\search.json.mozlz4", (void 0)))
+1655729513387	Marionette	INFO	Listening on port 64440
+Read port: 64440
+1655729513456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:64410/devtools/browser/292ac7b6-55c0-45e5-93b7-f1ce61e007d9
+1655729658460	Marionette	INFO	Stopped listening on port 64441655729659328	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilepuhdi7"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655729659713	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64638
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilepuhdi7\\search.json.mozlz4", (void 0)))
+1655729661335	Marionette	INFO	Listening on port 64681
+DevTools listening on ws://localhost:64638/devtools/browser/bf4ddb11-b3ab-4078-bcc8-197dad1e7116
+Read port: 64681
+1655729661436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655729944413	Marionette	INFO	Stopped listening on port 64681
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "65028" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileFtpsaA"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655729941916	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65028
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileFtpsaA\\search.json.mozlz4", (void 0)))
+1655729943624	Marionette	INFO	Listening on port 65069
+Read port: 65069
+1655729943686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:65028/devtools/browser/5072960d-8349-4945-9483-708d7fe3f001
+1655730496885	Marionette	INFO	Stopped listening on port 65069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655730585836	geckodriver	INFO	Listening on 127.0.0.1:64802
+1655730588894	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileD9FR7v"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1655730589344	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64803
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileD9FR7v\\search.json.mozlz4", (void 0)))
+1655730591213	Marionette	INFO	Listening on port 64836
+Read port: 64836
+1655730591305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:64803/devtools/browser/1978cc87-04c0-4a0c-9adc-6c3b43013a89
+1655730679310	Marionette	INFO	Stopped listening on port 64836
