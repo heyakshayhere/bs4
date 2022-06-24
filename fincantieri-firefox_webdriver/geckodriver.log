@@ -1,0 +1,169 @@
+1656064580196	geckodriver	INFO	Listening on 127.0.0.1:64567
+1656064583233	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofiletu3wp8"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1656064598553	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64568
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofiletu3wp8\\search.json.mozlz4", (void 0)))
+1656064600414	Marionette	INFO	Listening on port 64600
+DevTools listening on ws://localhost:64568/devtools/browser/0448a86e-358e-492d-942d-1494e26181fd
+Read port: 64600
+1656064600545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+JavaScript error: https://www.fincantieri.com/assets/js/lib/utils.js, line 2: Error: Syntax error, unrecognized expression: a.year[data-year-value=]
+1656068122289	Marionette	INFO	Stopped listening on port 64600
+1656068240817	geckodriver	INFO	Listening on 127.0.0.1:50916
+1656068243887	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileWjJ7jk"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1656068244293	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50917
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileWjJ7jk\\search.json.mozlz4", (void 0)))
+1656068245959	Marionette	INFO	Listening on port 50952
+DevTools listening on ws://localhost:50917/devtools/browser/ec724db9-0672-42f5-b3b7-002fd7610393
+Read port: 50952
+1656068246084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656070842012	Marionette	INFO	Stopped listening on port 50952
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "51538" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilezS4i6A"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1656068923346	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51538
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilezS4i6A\\search.json.mozlz4", (void 0)))
+1656068924909	Marionette	INFO	Listening on port 51574
+Read port: 51574
+1656068924950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51538/devtools/browser/86892b1b-50af-4264-ba69-5de856d2ece1
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1656071004653	Marionette	INFO	Stopped listening on port 51574
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656071071984	geckodriver	INFO	Listening on 127.0.0.1:53801
+1656071075015	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile9Qb794"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1656071075426	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53802
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile9Qb794\\search.json.mozlz4", (void 0)))
+1656071077074	Marionette	INFO	Listening on port 53832
+Read port: 53832
+1656071077202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53802/devtools/browser/09be8dc2-a273-41bd-b009-b313bd4e3140
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1656071405990	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656071465536	Marionette	INFO	Stopped listening on port 53831656071467645	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileePhlrP"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1656071468107	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54219
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileePhlrP\\search.json.mozlz4", (void 0)))
+1656071469943	Marionette	INFO	Listening on port 54258
+Read port: 54258
+1656071469986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:54219/devtools/browser/5ca35425-e6b1-4c7d-b04b-dc1d4ad73b9e
+1656071603773	Marionette	INFO	Stopped listening on port 54258
+1656072220355	geckodriver	INFO	Listening on 127.0.0.1:54820
+1656072223416	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilerKAjKP"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1656072223818	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54821
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilerKAjKP\\search.json.mozlz4", (void 0)))
+1656072225578	Marionette	INFO	Listening on port 54851
+DevTools listening on ws://localhost:54821/devtools/browser/df455209-e37e-4ef6-9716-5bc1f7548b9d
+Read port: 54851
+1656072225643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656072228875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656072285971	Marionette	INFO	Stopped listening on port 54851
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1656072410317	geckodriver	INFO	Listening on 127.0.0.1:55079
+1656072413363	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55080" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile49xI4u"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1656072413760	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55080
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile49xI4u\\search.json.mozlz4", (void 0)))
+1656072415386	Marionette	INFO	Listening on port 55115
+DevTools listening on ws://localhost:55080/devtools/browser/2a84e04f-814c-4976-bfbf-7198972bb683
+Read port: 55115
+1656072415489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656072418111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656072489718	Marionette	INFO	Stopped listening on port 55115
+1656072683336	geckodriver	INFO	Listening on 127.0.0.1:55363
+1656072686388	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilexHLxi4"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1656072686771	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55364
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofilexHLxi4\\search.json.mozlz4", (void 0)))
+1656072688520	Marionette	INFO	Listening on port 55399
+DevTools listening on ws://localhost:55364/devtools/browser/e19b2d8c-6934-4a39-b7f5-d4c0bd648e10
+Read port: 55399
+1656072688635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656072691220	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656072728076	Marionette	INFO	Stopped listening on port 55399
+1656072772808	geckodriver	INFO	Listening on 127.0.0.1:55538
+1656072775863	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile148ma7"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1656072776319	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55539
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile148ma7\\search.json.mozlz4", (void 0)))
+1656072778325	Marionette	INFO	Listening on port 55571
+Read port: 55571
+1656072778396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:55539/devtools/browser/e5ea2490-2b84-4c0f-aaa8-e6fbd0e4de4c
+1656072790223	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656072891777	geckodriver	INFO	Listening on 127.0.0.1:55783
+1656072894808	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileZMKnFL"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1656072895177	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55784
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofileZMKnFL\\search.json.mozlz4", (void 0)))
+1656072896995	Marionette	INFO	Listening on port 55816
+DevTools listening on ws://localhost:55784/devtools/browser/02f3ef0f-832a-4593-9d46-1529ec73d5c0
+Read port: 55816
+1656072897132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656072899927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656072970777	Marionette	INFO	Stopped listening on port 55816
