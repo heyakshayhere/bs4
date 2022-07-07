@@ -1,0 +1,18 @@
+1657172992299	geckodriver	INFO	Listening on 127.0.0.1:49723
+1657172995314	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile69SO59"
+JavaScript error: zjnpjkto1qw.cfg, line 2: ReferenceError: Components is not defined
+1657173012076	Marionette	INFO	Marionette enabled
+1657173012082	Marionette	INFO	Listening on port 49756
+WebDriver BiDi listening on ws://localhost:49724
+Read port: 49756
+1657173012242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AKSHAY~1\\AppData\\Local\\Temp\\rust_mozprofile69SO59\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49724/devtools/browser/b8814856-7bb7-48da-bf63-99079037a7b7
+1657173545960	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657175473002	Marionette	INFO	Stopped listening on port 49756
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
